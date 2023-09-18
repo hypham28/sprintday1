@@ -1,0 +1,28 @@
+Scenarios
+
+James’s scenario: Filtering the results based on the scholarship deadlines end eligibility criteria. 
+
+James is a 21-year-old student from Canada water, East London. He comes from a low-income family where his parents are immigrants from Nigeria, West Africa and he’s determined to pursue a degree in business administration at a reputable university in America. His family, while supportive, is concerned about the high cost of graduate school tuition. James knows that scholarships can make a significant difference in his ability to afford his dream education.
+
+One evening, while discussing his college plans with his parents, James’s brother Adam mentions FundNation, a scholarship platform he recently discovered. Intrigued, James decides to give it a try. He then opens his laptop and searches for FundNation online. He quickly finds the website and signs up for an account using his email address.
+
+Once registered, James completes his profile on FundNation.com. He enters his academic achievements, including his impressive GPA, his IGCSE highschool exams grade and provides details about his involvements in Warwick University. FundNation then prompts him to verify his email address, which she does promptly.
+
+James is pleasantly surprised to find that FundNation filters 1000’s of funding opportunities and offers personalized scholarship recommendations based on his profile. He specifies "Business Administration" as his field of study and sorts it’s by the most money given. He then begins his scholarship search. Using the filters for GPA requirements and application deadlines, he narrows down the list of scholarships to those that match his qualifications and interests.
+
+Throughout his scholarship searching journey, FundNation keeps him on track with notifications about upcoming deadlines and new scholarship opportunities. James also joins the FundNation community which is a chat group integrated in the website where she can interact with fellow students who are on similar journeys, share experiences, and offer support.
+
+In the end, thanks to FundNation’s user-friendly, centeralized platform and personalized recommendations, James secures multiple scholarships that significantly reduce the financial burden of his college education. And even helps him applying to different universities in America.
+
+
+User Story 
+-	As a student, I want to be able to easily find funding for my education without being overwhelmed. 
+-	I also want to be able to discuss the issue I am facing with application with a professional without the need to see them in person.
+
+
+
+Features
+-	Filtration option to find best scholarship for the individuals preference.
+-	School application guide. 
+-	A community chat to help others who are in a similar situation. 
+
