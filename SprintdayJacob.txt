@@ -1,0 +1,6 @@
+scenarios:
+Jeff is using DailySchedule to help him deal with time management, which he struggles with.
+
+USer Story: Jeff is a first-year student, who is struggling managing his time while at university. He feels overwhelmed with all of his classes, homework, and trying to balance that with his leisurely activies. Thats why he needs DailySchedule, to help him schedule his day-to-day activities. 
+
+Feature List: The user would input information like their class schedule, workload/ upcoming assignments due/and other factors. The application would then produce a schedule for every day that week, as well as give time for break/rest. The user would then be able to keep that schedule, or create a new one manually or have the application try again. 
